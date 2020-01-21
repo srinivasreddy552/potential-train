@@ -1,4 +1,4 @@
-# potential-train
+# Calculator
 
 This project is to develop simple Rest API for Standard and Scientific Calculator.
 
